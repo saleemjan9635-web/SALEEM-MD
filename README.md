@@ -156,7 +156,7 @@ jobs:
       run: npm install
 
     - name: Start application
-      run: node server.js
+      run: npm start
 ```
 </details> 
 
